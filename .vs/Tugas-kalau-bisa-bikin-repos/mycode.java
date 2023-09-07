@@ -31,6 +31,8 @@ public class Main {
                 String dw7f = rng + dw7;
                 System.out.println(dw7f);
                 break;
+            default:
+                System.out.println("what even day it is")
         }
 
     }
